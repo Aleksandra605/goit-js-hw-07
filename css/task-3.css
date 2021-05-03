@@ -1,0 +1,12 @@
+.box-gallery {
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+  justify-content: space-between;
+}
+
+.gallery-item {
+  width: min-content;
+  margin: 0;
+  list-style: none;
+}
